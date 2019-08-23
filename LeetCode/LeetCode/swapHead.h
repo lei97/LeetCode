@@ -10,19 +10,22 @@
  */
 class swapHead {
 public:
-    void Solution(ListNode* tmp)
+    void swapHeadOfLast(ListNode* tmp)
     {
         if (tmp->next != nullptr)
         {
-            swap(tmp->val, tmp->next->val);
+            int val;
+            val = tmp->val;
+            tmp->val = tmp->next->val;
+            tmp->next->val = val;
         }
     }
-    ListNode* swapPairs(ListNode* head) 
+    ListNode* swapPairs(ListNode* head)
     {
         ListNode* tmp = head;
         while (tmp != nullptr)
         {
-            swapHead(tmp);
+            swapHeadOfLast(tmp);
             if ((tmp->next == nullptr) || (tmp->next->next == nullptr))
             {
                 break;
