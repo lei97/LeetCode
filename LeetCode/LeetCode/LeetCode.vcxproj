@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="config.h" />
+    <ClInclude Include="findMedianSortedArrays.h" />
     <ClInclude Include="removeElement.h" />
   </ItemGroup>
   <ItemGroup>
