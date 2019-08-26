@@ -126,6 +126,7 @@
     <ClInclude Include="config.h" />
     <ClInclude Include="findMedianSortedArrays.h" />
     <ClInclude Include="removeElement.h" />
+    <ClInclude Include="reverse.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
