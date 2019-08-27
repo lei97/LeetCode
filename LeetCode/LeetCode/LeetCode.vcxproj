@@ -127,6 +127,8 @@
     <ClInclude Include="findMedianSortedArrays.h" />
     <ClInclude Include="removeElement.h" />
     <ClInclude Include="reverse.h" />
+    <ClInclude Include="reverseList.h" />
+    <ClInclude Include="swapHead.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />

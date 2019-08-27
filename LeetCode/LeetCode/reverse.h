@@ -19,7 +19,6 @@ public:
         {
             number = number * 10 + num[i];
         }
-        //num.~vector();
         if ((number > INT32_MAX) || (number < INT32_MIN))
         {
             number = 0;

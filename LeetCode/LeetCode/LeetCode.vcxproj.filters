@@ -27,6 +27,12 @@
     <ClInclude Include="reverse.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="reverseList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="swapHead.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
