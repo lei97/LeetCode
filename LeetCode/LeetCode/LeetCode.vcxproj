@@ -128,6 +128,7 @@
     <ClInclude Include="removeElement.h" />
     <ClInclude Include="reverse.h" />
     <ClInclude Include="reverseList.h" />
+    <ClInclude Include="reverseWords.h" />
     <ClInclude Include="swapHead.h" />
   </ItemGroup>
   <ItemGroup>
