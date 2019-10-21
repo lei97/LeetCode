@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClInclude Include="config.h" />
     <ClInclude Include="findMedianSortedArrays.h" />
+    <ClInclude Include="productExceptSelf.h" />
     <ClInclude Include="removeElement.h" />
     <ClInclude Include="reverse.h" />
     <ClInclude Include="reverseList.h" />
