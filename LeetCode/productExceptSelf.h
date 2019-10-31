@@ -10,9 +10,26 @@
 
 class productExceptSelf {
 public:
+	//解题思路
+	//1、
 	vector<int> source(vector<int>& nums)
 	{
-		;
+		int size = nums.size();
+		vector<int> dataToRight(size);
+		vector<int> dataToLeft(size);
+		int tmp = 1;
+		for (int i = 0; i < size; i++)
+		{
+			dataToRight[i] = tmp;
+			tmp = tmp * nums[i];
+		}
+		tmp = 1;
+		for (int i = size - 1; i >= 0; i--)
+		{
+			dataToLeft[i] = tmp * dataToRight[i];
+			tmp = tmp * nums[i];
+		}
+		return dataToLeft;
 	}
 
 	void test()
@@ -21,5 +38,5 @@ public:
 	}
 
 private:
-	vector<int> m_data;
+	vector<int> m_output;
 };
