@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="config.h" />
+    <ClInclude Include="containsDuplicate.h" />
     <ClInclude Include="findMedianSortedArrays.h" />
     <ClInclude Include="productExceptSelf.h" />
     <ClInclude Include="removeElement.h" />

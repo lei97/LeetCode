@@ -4,14 +4,12 @@
 #include "reverseList.h"
 #include "reverseWords.h"
 #include "productExceptSelf.h"
+#include "containsDuplicate.h"
 
 int main()
 {
-    reverseWords RW;
-    string test = "hehhhhhhe";
-	productExceptSelf pws;
-	vector<int> aa{ 1,2,3,4 };
-	pws.source(aa);
-    RW.Solution(test);
+	containsDuplicate ctd;
+	vector<int> data{ 1, 2, 3, 1 };
+	ctd.source(data);
     return 0;
 }
