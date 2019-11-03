@@ -9,7 +9,7 @@ public:
 	// 输入   ：[1,2,3,1]
 	// 输出   ：true
 
-	// 
+	// 题解1 暴力破解
 	bool source(vector<int>& nums)
 	{
 		int size = nums.size();
@@ -20,7 +20,8 @@ public:
 		vector<int> tmp{ nums[0] };
 		for (int i = 1; i < size; i++)
 		{
-			for (int j = 0; j < tmp.size(); j++)
+			int j_size = tmp.size();
+			for (int j = 0; j < j_size; j++)
 			{
 				if (nums[i] == tmp[j])
 					return true;
@@ -29,5 +30,11 @@ public:
 			//nums[i];
 		}
 		return false;
+	}
+
+	//排序 
+	bool source_2(vector<int>& nums)
+	{
+
 	}
 };
