@@ -89,6 +89,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_LIB;NOMINMAX;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -134,6 +135,7 @@
     <ClInclude Include="reverse.h" />
     <ClInclude Include="reverseList.h" />
     <ClInclude Include="reverseWords.h" />
+    <ClInclude Include="singleNumber.h" />
     <ClInclude Include="swapHead.h" />
   </ItemGroup>
   <ItemGroup>

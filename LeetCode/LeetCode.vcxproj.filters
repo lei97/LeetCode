@@ -45,6 +45,9 @@
     <ClInclude Include="..\3rd\dbg\dbg.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="singleNumber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
