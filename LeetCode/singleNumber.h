@@ -16,19 +16,13 @@ public:
 	{
 		/*
 			解题思路：
-				1. 
-				2.
+				1. 异或操作：a ^ b ^ a = b
 		*/
 		int size = nums.size();
-		if (size <= 1)
-		{
-			return nums[0];
-		}
-
 		int tmp = nums[0];
 		for (int i = 1; i < size; i++)
 		{
-			tmp == nums[i];
+			tmp = tmp ^ nums[i];
 		}
 	}
 
