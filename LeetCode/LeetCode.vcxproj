@@ -127,6 +127,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="..\3rd\dbg\dbg.h" />
+    <ClInclude Include="climbStairs.h" />
     <ClInclude Include="config.h" />
     <ClInclude Include="containsDuplicate.h" />
     <ClInclude Include="findMedianSortedArrays.h" />
