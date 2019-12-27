@@ -51,6 +51,9 @@
     <ClInclude Include="climbStairs.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="deleteNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">

@@ -130,6 +130,7 @@
     <ClInclude Include="climbStairs.h" />
     <ClInclude Include="config.h" />
     <ClInclude Include="containsDuplicate.h" />
+    <ClInclude Include="deleteNode.h" />
     <ClInclude Include="findMedianSortedArrays.h" />
     <ClInclude Include="productExceptSelf.h" />
     <ClInclude Include="removeElement.h" />
