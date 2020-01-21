@@ -15,5 +15,6 @@ class deleteNode
         ListNode* p = node->next;
         node->val = p->val;
         node->next = p->next;
+        delete p;
     }
 };
