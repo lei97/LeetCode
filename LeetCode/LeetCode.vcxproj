@@ -133,6 +133,7 @@
     <ClInclude Include="deleteNode.h" />
     <ClInclude Include="findMedianSortedArrays.h" />
     <ClInclude Include="isValid.h" />
+    <ClInclude Include="longestCommonPrefix.h" />
     <ClInclude Include="majorityElement.h" />
     <ClInclude Include="productExceptSelf.h" />
     <ClInclude Include="removeElement.h" />
