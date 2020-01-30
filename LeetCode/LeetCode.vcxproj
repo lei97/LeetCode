@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -135,6 +135,7 @@
     <ClInclude Include="isValid.h" />
     <ClInclude Include="longestCommonPrefix.h" />
     <ClInclude Include="majorityElement.h" />
+    <ClInclude Include="mergeTwoLists.h" />
     <ClInclude Include="productExceptSelf.h" />
     <ClInclude Include="removeElement.h" />
     <ClInclude Include="reverse.h" />
