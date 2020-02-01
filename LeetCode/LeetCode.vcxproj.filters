@@ -63,6 +63,12 @@
     <ClInclude Include="longestCommonPrefix.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="mergeTwoLists.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="merge.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
