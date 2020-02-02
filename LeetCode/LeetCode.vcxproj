@@ -138,6 +138,7 @@
     <ClInclude Include="merge.h" />
     <ClInclude Include="mergeTwoLists.h" />
     <ClInclude Include="productExceptSelf.h" />
+    <ClInclude Include="removeDuplicates.h" />
     <ClInclude Include="removeElement.h" />
     <ClInclude Include="reverse.h" />
     <ClInclude Include="reverseList.h" />
