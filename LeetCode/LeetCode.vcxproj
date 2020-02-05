@@ -146,6 +146,7 @@
     <ClInclude Include="reverseList.h" />
     <ClInclude Include="reverseWords.h" />
     <ClInclude Include="singleNumber.h" />
+    <ClInclude Include="strStr.h" />
     <ClInclude Include="swapHead.h" />
   </ItemGroup>
   <ItemGroup>

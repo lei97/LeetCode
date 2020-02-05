@@ -14,7 +14,7 @@ public:
         {
             return false;
         }
-        unsigned int n = 0;
+        unsigned int n = 0; 
         int tmp = x;
         while (tmp)
         {
