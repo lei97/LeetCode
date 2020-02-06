@@ -4,6 +4,7 @@
 class containsDuplicate
 {
 public:
+    //          217. 存在重复元素
 	// 题目简介：如果任何值在数组中出现至少两次，函数返回 true。
 	//          如果数组中每个元素都不相同，则返回 false。
 	// 输入   ：[1,2,3,1]
@@ -35,6 +36,22 @@ public:
 	//排序 
 	bool source_2(vector<int>& nums)
 	{
-
+        vector<int> data{ nums };
+        std::sort(data.begin(), data.end());
+        if (data.size() <= 1)
+        {
+            return false;
+        }
+        int tmp = data[0];
+        int size = data.size();
+        for (int i = 1; i < size; i++)
+        {
+            if (tmp == data[i])
+            {
+                return true;
+            }
+            tmp = data[i];
+        }
+        return false;
 	}
 };
