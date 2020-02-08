@@ -145,6 +145,7 @@
     <ClInclude Include="reverse.h" />
     <ClInclude Include="reverseList.h" />
     <ClInclude Include="reverseWords.h" />
+    <ClInclude Include="searchInsert.h" />
     <ClInclude Include="singleNumber.h" />
     <ClInclude Include="strStr.h" />
     <ClInclude Include="swapHead.h" />
