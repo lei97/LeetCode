@@ -84,6 +84,9 @@
     <ClInclude Include="searchInsert.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="addBinary.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
