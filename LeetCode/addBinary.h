@@ -13,7 +13,8 @@ class addBinary {
          ‰»Î: a = "11", b = "1"
          ‰≥ˆ: "100"
     */
-    string source(string a, string b) {
+    string source(string a, string b) 
+    {
         int flag = 0; 
         int a_position = a.size() - 1;
         int b_position = b.size() - 1;

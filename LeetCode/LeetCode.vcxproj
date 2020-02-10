@@ -137,6 +137,7 @@
     <ClInclude Include="isValid.h" />
     <ClInclude Include="longestCommonPrefix.h" />
     <ClInclude Include="majorityElement.h" />
+    <ClInclude Include="maxDepth.h" />
     <ClInclude Include="maxProfit.h" />
     <ClInclude Include="merge.h" />
     <ClInclude Include="mergeTwoLists.h" />
