@@ -151,6 +151,7 @@
     <ClInclude Include="singleNumber.h" />
     <ClInclude Include="strStr.h" />
     <ClInclude Include="swapHead.h" />
+    <ClInclude Include="_1114.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
