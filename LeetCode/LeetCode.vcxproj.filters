@@ -96,6 +96,9 @@
     <ClInclude Include="MinStack.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="addTwoNumbers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
