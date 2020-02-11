@@ -141,6 +141,7 @@
     <ClInclude Include="maxProfit.h" />
     <ClInclude Include="merge.h" />
     <ClInclude Include="mergeTwoLists.h" />
+    <ClInclude Include="MinStack.h" />
     <ClInclude Include="productExceptSelf.h" />
     <ClInclude Include="removeDuplicates.h" />
     <ClInclude Include="removeElement.h" />
