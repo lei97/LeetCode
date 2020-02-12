@@ -42,6 +42,11 @@ public:
             pStack.pop();
             qStack.pop();
 
+            if (a->val != b->val)
+            {
+                return false;
+            }
+
             if (a->right && b->right)
             {
                 pStack.push(a->right);
@@ -70,10 +75,7 @@ public:
                 return false;
             }
 
-            if (a->val != b->val)
-            {
-                return false;
-            }
+           
         }
         if (!pStack.empty() || !qStack.empty())
         {
