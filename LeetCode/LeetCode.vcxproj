@@ -154,6 +154,7 @@
     <ClInclude Include="strStr.h" />
     <ClInclude Include="swapHead.h" />
     <ClInclude Include="_100.h" />
+    <ClInclude Include="_101.h" />
     <ClInclude Include="_1114.h" />
   </ItemGroup>
   <ItemGroup>
