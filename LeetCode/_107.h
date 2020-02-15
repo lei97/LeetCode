@@ -43,8 +43,9 @@ public:
                     q.push(x->right);
                 }
             }
-            data.insert(data.begin(), a);
+            data.push_back(a);
         }
+        reverse(data.begin(), data.end());
         return data;
     }
 };
