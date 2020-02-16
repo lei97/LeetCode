@@ -158,6 +158,7 @@
     <ClInclude Include="_102.h" />
     <ClInclude Include="_107.h" />
     <ClInclude Include="_1114.h" />
+    <ClInclude Include="_226.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
