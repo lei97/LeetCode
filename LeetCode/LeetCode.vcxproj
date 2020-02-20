@@ -143,6 +143,7 @@
     <ClInclude Include="merge.h" />
     <ClInclude Include="mergeTwoLists.h" />
     <ClInclude Include="MinStack.h" />
+    <ClInclude Include="m_10.h" />
     <ClInclude Include="productExceptSelf.h" />
     <ClInclude Include="removeDuplicates.h" />
     <ClInclude Include="removeElement.h" />
@@ -160,7 +161,7 @@
     <ClInclude Include="_1114.h" />
     <ClInclude Include="_112.h" />
     <ClInclude Include="_226.h" />
-    <ClInclude Include="_64_m.h" />
+    <ClInclude Include="m_64.h" />
     <ClInclude Include="_94.h" />
   </ItemGroup>
   <ItemGroup>

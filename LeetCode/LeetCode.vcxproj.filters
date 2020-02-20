@@ -120,7 +120,10 @@
     <ClInclude Include="_94.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="_64_m.h">
+    <ClInclude Include="m_10.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="m_64.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
