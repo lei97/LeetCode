@@ -1,12 +1,12 @@
-#include "removeElement.h"
-#include "findMedianSortedArrays.h"
-#include "reverse.h"
-#include "reverseList.h"
-#include "reverseWords.h"
-#include "productExceptSelf.h"
-#include "containsDuplicate.h"
+//#include "removeElement.h"
+//#include "findMedianSortedArrays.h"
+//#include "reverse.h"
+//#include "reverseList.h"
+//#include "reverseWords.h"
+//#include "productExceptSelf.h"
+//#include "containsDuplicate.h"
 #include "dbg.h"
-
+#include "m_29.h"
 // You can use "dbg(..)" in expressions:
 int factorial(int n) {
 	if (dbg(n <= 1)) {
@@ -19,11 +19,13 @@ int factorial(int n) {
 
 int main()
 {
-	std::string message = "hello";
-	dbg(message);  // [example.cpp:15 (main)] message = "hello" (std::string)
-	factorial(10);
-	containsDuplicate ctd;
-	vector<int> data{ 1, 2, 3, 1 };
-	ctd.source(data);
+    vector<vector<int>> a{ {1,2,3},{5,6,7},{9,10,11} };
+    //vector<vector<int>> a{ {6,9,7} };
+    //vector<vector<int>> a{ {2} };
+
+    //vector<vector<int>> a{ {3}, {2} };
+
+    Solution b;
+    b.spiralOrder(a);
     return 0;
 }
