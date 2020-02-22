@@ -8,11 +8,6 @@ public:
 
     }
 
-
-    /*
-    ["CQueue","deleteHead","appendTail","deleteHead","deleteHead","deleteHead","deleteHead","appendTail","deleteHead","appendTail","appendTail","deleteHead","deleteHead","deleteHead","appendTail","deleteHead","deleteHead","deleteHead","deleteHead","appendTail","appendTail","appendTail","appendTail","deleteHead","deleteHead","appendTail","appendTail","deleteHead","deleteHead","deleteHead","appendTail","appendTail","deleteHead","appendTail","deleteHead","appendTail","appendTail","appendTail","deleteHead","deleteHead","appendTail","appendTail","deleteHead","deleteHead","deleteHead","deleteHead","appendTail","appendTail","deleteHead","deleteHead","appendTail","deleteHead","appendTail","appendTail","appendTail","appendTail","deleteHead","appendTail","deleteHead","deleteHead","appendTail","appendTail","appendTail","deleteHead","deleteHead","appendTail","appendTail","appendTail","deleteHead","deleteHead","deleteHead","deleteHead","appendTail","appendTail","deleteHead","deleteHead","appendTail","deleteHead","appendTail","appendTail","deleteHead","deleteHead","appendTail","deleteHead","appendTail","appendTail","appendTail","deleteHead","appendTail","appendTail","appendTail","appendTail","deleteHead","deleteHead","deleteHead","appendTail","deleteHead","appendTail","deleteHead","appendTail","appendTail"]
-    [[],[],[97],[],[],[],[],[15],[],[1],[43],[],[],[],[18],[],[],[],[],[36],[69],[21],[91],[],[],[22],[40],[],[],[],[81],[65],[],[77],[],[63],[96],[5],[],[],[35],[90],[],[],[],[],[77],[83],[],[],[52],[],[2],[66],[87],[90],[],[2],[],[],[33],[16],[72],[],[],[14],[78],[8],[],[],[],[],[3],[83],[],[],[13],[],[79],[44],[],[],[33],[],[55],[76],[12],[],[91],[24],[49],[47],[],[],[],[85],[],[69],[],[94],[52]]
-    */
     void appendTail(int value) {
         a.push(value);
     }

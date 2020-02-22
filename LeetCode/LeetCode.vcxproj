@@ -145,6 +145,7 @@
     <ClInclude Include="MinStack.h" />
     <ClInclude Include="m_09.h" />
     <ClInclude Include="m_10.h" />
+    <ClInclude Include="m_39.h" />
     <ClInclude Include="productExceptSelf.h" />
     <ClInclude Include="removeDuplicates.h" />
     <ClInclude Include="removeElement.h" />
