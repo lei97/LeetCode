@@ -165,6 +165,7 @@
     <ClInclude Include="_112.h" />
     <ClInclude Include="_226.h" />
     <ClInclude Include="m_64.h" />
+    <ClInclude Include="_53.h" />
     <ClInclude Include="_94.h" />
   </ItemGroup>
   <ItemGroup>
