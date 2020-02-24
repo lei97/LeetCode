@@ -138,6 +138,9 @@
     <ClInclude Include="_53.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="m_03.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
