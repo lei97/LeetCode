@@ -70,7 +70,7 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>..\3rd\dbg;$(IncludePath)</IncludePath>
+    <IncludePath>..\3rd\dbg;..\3rd\catch2;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -126,6 +126,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\3rd\catch2\catch.hpp" />
     <ClInclude Include="..\3rd\dbg\dbg.h" />
     <ClInclude Include="addBinary.h" />
     <ClInclude Include="addTwoNumbers.h" />
