@@ -148,6 +148,7 @@
     <ClInclude Include="m_10.h" />
     <ClInclude Include="m_29.h" />
     <ClInclude Include="m_39.h" />
+    <ClInclude Include="m_57.h" />
     <ClInclude Include="productExceptSelf.h" />
     <ClInclude Include="removeDuplicates.h" />
     <ClInclude Include="removeElement.h" />

@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="头文件\test">
+      <UniqueIdentifier>{c9210369-bb45-400c-9988-26118ffdeb56}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="config.h">
@@ -139,6 +142,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="m_03.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="m_57.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
