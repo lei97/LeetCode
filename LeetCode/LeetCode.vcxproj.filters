@@ -150,6 +150,9 @@
     <ClInclude Include="..\3rd\catch2\catch.hpp">
       <Filter>头文件\test</Filter>
     </ClInclude>
+    <ClInclude Include="m_15.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
