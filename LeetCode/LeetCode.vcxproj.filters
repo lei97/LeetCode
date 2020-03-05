@@ -156,6 +156,9 @@
     <ClInclude Include="m_17.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="m_27.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
