@@ -145,6 +145,7 @@
     <ClInclude Include="mergeTwoLists.h" />
     <ClInclude Include="MinStack.h" />
     <ClInclude Include="m_03.h" />
+    <ClInclude Include="m_06.h" />
     <ClInclude Include="m_09.h" />
     <ClInclude Include="m_10.h" />
     <ClInclude Include="m_15.h" />
