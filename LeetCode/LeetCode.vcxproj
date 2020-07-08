@@ -157,6 +157,7 @@
     <ClInclude Include="offer_05.h" />
     <ClInclude Include="offer_22.h" />
     <ClInclude Include="offer_58.h" />
+    <ClInclude Include="offer_66.h" />
     <ClInclude Include="productExceptSelf.h" />
     <ClInclude Include="removeDuplicates.h" />
     <ClInclude Include="removeElement.h" />
