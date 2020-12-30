@@ -171,6 +171,7 @@
     <ClInclude Include="_100.h" />
     <ClInclude Include="_101.h" />
     <ClInclude Include="_102.h" />
+    <ClInclude Include="_1046.h" />
     <ClInclude Include="_107.h" />
     <ClInclude Include="_1114.h" />
     <ClInclude Include="_112.h" />
