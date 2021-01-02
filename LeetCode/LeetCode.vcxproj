@@ -155,6 +155,7 @@
     <ClInclude Include="m_39.h" />
     <ClInclude Include="m_57.h" />
     <ClInclude Include="offer_05.h" />
+    <ClInclude Include="offer_11.h" />
     <ClInclude Include="offer_22.h" />
     <ClInclude Include="offer_58.h" />
     <ClInclude Include="offer_66.h" />

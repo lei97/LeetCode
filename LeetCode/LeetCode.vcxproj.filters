@@ -177,6 +177,9 @@
     <ClInclude Include="_1046.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="offer_11.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
