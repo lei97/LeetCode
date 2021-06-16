@@ -182,6 +182,7 @@
     <ClInclude Include="m_64.h" />
     <ClInclude Include="_509.h" />
     <ClInclude Include="_53.h" />
+    <ClInclude Include="_66.h" />
     <ClInclude Include="_86.h" />
     <ClInclude Include="_94.h" />
   </ItemGroup>
